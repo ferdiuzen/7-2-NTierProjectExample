@@ -1,0 +1,13 @@
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\bin\Release\netcoreapp3.1\CoreLayer.deps.json
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\bin\Release\netcoreapp3.1\CoreLayer.runtimeconfig.json
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\bin\Release\netcoreapp3.1\CoreLayer.runtimeconfig.dev.json
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\bin\Release\netcoreapp3.1\CoreLayer.dll
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\bin\Release\netcoreapp3.1\CoreLayer.pdb
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\obj\Release\netcoreapp3.1\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\obj\Release\netcoreapp3.1\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\obj\Release\netcoreapp3.1\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\obj\Release\netcoreapp3.1\CoreLayer.AssemblyInfo.cs
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\obj\Release\netcoreapp3.1\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\obj\Release\netcoreapp3.1\CoreLayer.dll
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\obj\Release\netcoreapp3.1\CoreLayer.pdb
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\CoreLayer\obj\Release\netcoreapp3.1\CoreLayer.genruntimeconfig.cache

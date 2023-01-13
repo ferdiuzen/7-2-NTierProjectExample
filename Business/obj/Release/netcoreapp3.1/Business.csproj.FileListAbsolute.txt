@@ -1,0 +1,17 @@
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\bin\Release\netcoreapp3.1\Business.deps.json
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\bin\Release\netcoreapp3.1\Business.dll
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\bin\Release\netcoreapp3.1\Business.pdb
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\bin\Release\netcoreapp3.1\CoreLayer.dll
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\bin\Release\netcoreapp3.1\CoreLayer.pdb
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\obj\Release\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\obj\Release\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\obj\Release\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\obj\Release\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\obj\Release\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\obj\Release\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\obj\Release\netcoreapp3.1\Business.dll
+C:\Users\SEM\Desktop\ERP205\7-ASPNET_CORE\NTierProject\Business\obj\Release\netcoreapp3.1\Business.pdb
